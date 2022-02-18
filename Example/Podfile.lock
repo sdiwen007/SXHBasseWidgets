@@ -1,5 +1,5 @@
 PODS:
-  - SXHBaseWidgetss (0.1.0)
+  - SXHBaseWidgetss (0.0.1)
 
 DEPENDENCIES:
   - SXHBaseWidgetss (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SXHBaseWidgetss: bfc09d8d6428dc42bcd5d9f56b26434947a3dbfc
+  SXHBaseWidgetss: 3bd098b671efa85879ac4912af8bdd2407329eb1
 
 PODFILE CHECKSUM: 92fb9dab7106ea7d91c0371c2cf3a636b0391f6c
 
