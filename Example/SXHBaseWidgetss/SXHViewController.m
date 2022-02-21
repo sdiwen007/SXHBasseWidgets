@@ -18,7 +18,6 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
-    NSLog(@"修改分支信息，然后进行合并到主分支master");
 }
 
 - (void)didReceiveMemoryWarning
